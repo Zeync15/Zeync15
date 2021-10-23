@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zeync15
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Firebase
-- 💞️ I’m looking for web development job in August 2021
+- 👋 Hi, I’m Ze Yen
+- 👀 I’m interested in Creating Software
+- 🌱 I’m currently using Angular and Firebase
+- 💞️ Currently working as a Software Engineer 
 - 📫 How to reach me LnkedIn: https://www.linkedin.com/in/chai-ze-yen-0bb4bb1a6/
 
 <!---
