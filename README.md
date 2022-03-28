@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ze Yen
 - 👀 I’m interested in Web/Software Development
-- 🌱 I’m currently using React
+- 🌱 I’m currently developing app with Next.Js
 - 💞️ Currently working as a Software Developer
 - 📫 How to reach me LnkedIn: https://www.linkedin.com/in/chai-ze-yen-0bb4bb1a6/
 
